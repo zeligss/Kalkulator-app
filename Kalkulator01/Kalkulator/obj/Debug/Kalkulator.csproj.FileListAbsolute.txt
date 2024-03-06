@@ -1,0 +1,7 @@
+D:\Kuliah\Semester 2\Pemrograman\Kalkulator01\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\Kuliah\Semester 2\Pemrograman\Kalkulator01\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Kuliah\Semester 2\Pemrograman\Kalkulator01\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Kuliah\Semester 2\Pemrograman\Kalkulator01\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\Kalkulator01\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\Kalkulator01\Kalkulator\obj\Debug\Kalkulator.exe
+D:\Kuliah\Semester 2\Pemrograman\Kalkulator01\Kalkulator\obj\Debug\Kalkulator.pdb
